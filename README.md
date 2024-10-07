@@ -20,4 +20,4 @@ For more information about who I am and my past projects, feel free to checkout 
 
 - Email: etannant@gmail.com
 - LinkedIn: https://www.linkedin.com/in/eric-tannant/
-- Website: erictannant.com
+- Website: https://www.erictannant.com
