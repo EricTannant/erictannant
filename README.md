@@ -1,4 +1,4 @@
-# 😄 Hello, My name is Eric Tannant
+# Hello, My name is Eric Tannant
 
 ## 💫 About Me:
 
