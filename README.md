@@ -1,18 +1,21 @@
-# Hello, My name is Eric Tannant
+# Hello! I am Eric :)
 
-## 💫 About Me:
+## About Me:
 
-I'm a 4th year Electrical Engineering student passionate about Software and Firmware development. I love all things coding and I am currently working on Machine Learning using Python with TensorFlow and Pycharm, front-end development in HTML, CSS, and JavaScript, and embedded systems using C++.
+I'm a 4th-year Electrical Engineering student passionate about Software development. I love all things coding and I am currently working on Machine Learning using Python with TensorFlow and Pycharm, front-end development in HTML, CSS, and JavaScript, and embedded systems using C++.
 
-## 🌐 Website:
+## Website:
 
-For more information about who I am and my past projects, feel free to checkout my website: erictannant.com
+For more information about who I am and my past projects, feel free to check out my website: erictannant.com
 
-## 🤖 Projects:
+## Projects:
 
-Currently working on a Goal Tracking Project using React.
+- Crystal: Locally run AI Agents that act as personal assistants and help manage your day-to-day life. Written in Python using ollama for LLM.
+- Taskcheck: Firefox to-do list and organizer web extension made in React using TypeScript
+- Local-API-Mock-Server: Tool for simulating and validating front-end REST API functionality before a full back-end is implemented. Written in Python using FastAPI
+- Portfolio Website: Personal Portfolio Website made using React, written in JavaScript.
 
-## 💻 Skills and Technology Experience:
+## Skills and Technology Experience:
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -20,8 +23,8 @@ Currently working on a Goal Tracking Project using React.
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📫 Get in Contact:
+## Contact Me:
 
-- Email: etannant@gmail.com
+- Email: eric@erictannant.com
 - LinkedIn: https://www.linkedin.com/in/eric-tannant/
 - Website: https://www.erictannant.com
